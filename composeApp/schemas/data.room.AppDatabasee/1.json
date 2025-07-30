@@ -1,0 +1,287 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "d5fc3e06a258489dca7738aefbdc8581",
+    "entities": [
+      {
+        "tableName": "GameEntity",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `textEventMatch` TEXT, `colour` INTEGER NOT NULL, `isGameWasPinned` INTEGER NOT NULL, `isBetWasSaved` INTEGER NOT NULL, `epochDays` INTEGER NOT NULL, `timestamp` INTEGER NOT NULL, `dateOld` TEXT NOT NULL, `dateNew` TEXT NOT NULL, `leagueId` INTEGER NOT NULL, `status` TEXT NOT NULL, `idteam1` INTEGER NOT NULL, `idteam2` INTEGER NOT NULL, `date` TEXT NOT NULL, `startTimeTimeStamp` INTEGER NOT NULL, `endTimeTimeStamp` INTEGER NOT NULL, `name1` TEXT NOT NULL, `name2` TEXT NOT NULL, `score1` TEXT NOT NULL, `score2` TEXT NOT NULL, `score1halfTime` TEXT NOT NULL, `score2halfTime` TEXT NOT NULL, `pic1` TEXT NOT NULL, `pic2` TEXT NOT NULL, `picLeague` TEXT NOT NULL, `league` TEXT NOT NULL, `stadium` TEXT NOT NULL, `referee` TEXT NOT NULL, `city` TEXT NOT NULL, `country` TEXT NOT NULL, `round` TEXT NOT NULL, `minutematch` INTEGER NOT NULL, `isNotificationsAllowed` INTEGER NOT NULL, `isDialogShown` INTEGER)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "textEventMatch",
+            "columnName": "textEventMatch",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "colour",
+            "columnName": "colour",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isGameWasPinned",
+            "columnName": "isGameWasPinned",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isBetWasSaved",
+            "columnName": "isBetWasSaved",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "epochDays",
+            "columnName": "epochDays",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "timestamp",
+            "columnName": "timestamp",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dateOld",
+            "columnName": "dateOld",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dateNew",
+            "columnName": "dateNew",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "leagueId",
+            "columnName": "leagueId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "status",
+            "columnName": "status",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "idteam1",
+            "columnName": "idteam1",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "idteam2",
+            "columnName": "idteam2",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "date",
+            "columnName": "date",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "startTimeTimeStamp",
+            "columnName": "startTimeTimeStamp",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "endTimeTimeStamp",
+            "columnName": "endTimeTimeStamp",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name1",
+            "columnName": "name1",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name2",
+            "columnName": "name2",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score1",
+            "columnName": "score1",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score2",
+            "columnName": "score2",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score1halfTime",
+            "columnName": "score1halfTime",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score2halfTime",
+            "columnName": "score2halfTime",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pic1",
+            "columnName": "pic1",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pic2",
+            "columnName": "pic2",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "picLeague",
+            "columnName": "picLeague",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "league",
+            "columnName": "league",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "stadium",
+            "columnName": "stadium",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "referee",
+            "columnName": "referee",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "city",
+            "columnName": "city",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "country",
+            "columnName": "country",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "round",
+            "columnName": "round",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "minutematch",
+            "columnName": "minutematch",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isNotificationsAllowed",
+            "columnName": "isNotificationsAllowed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isDialogShown",
+            "columnName": "isDialogShown",
+            "affinity": "INTEGER"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        }
+      },
+      {
+        "tableName": "EventEntity",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `isEventWasPinned` INTEGER NOT NULL, `epochDays` INTEGER NOT NULL, `startTimeTimeStamp` INTEGER NOT NULL, `endTimeTimeStamp` INTEGER NOT NULL, `tittle` TEXT NOT NULL, `textEvent` TEXT NOT NULL, `colour` INTEGER NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isEventWasPinned",
+            "columnName": "isEventWasPinned",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "epochDays",
+            "columnName": "epochDays",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "startTimeTimeStamp",
+            "columnName": "startTimeTimeStamp",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "endTimeTimeStamp",
+            "columnName": "endTimeTimeStamp",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "tittle",
+            "columnName": "tittle",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "textEvent",
+            "columnName": "textEvent",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "colour",
+            "columnName": "colour",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        }
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'd5fc3e06a258489dca7738aefbdc8581')"
+    ]
+  }
+}

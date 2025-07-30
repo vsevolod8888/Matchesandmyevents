@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Matches and own events</string>
+    <string name="onboardingtext1">Your sports \ncalendar </string>
+    <string name="onboardingtext2">With our app, you can track live \nmatches of your favorite leagues and \ncreate your own sporting events and \nother activities.</string>
+    <string name="next">Next</string>
+    <string name="favouriteleagues">Favorite Leagues</string>
+    <string name="savefavouriteleagues">Save Favorite Leagues</string>
+    <string name="leaguesscreentext1">Select leagues to display upcoming matches\nin the calendar,</string>
+    <string name="leaguesscreentext2"> 5 leagues max.</string>
+    <string name="leaguesscreentext3"> You will always have the \noption to change the selection in the settings.</string>
+    <string name="maximumlimitofleagues">Maximum limit of leagues for selection 5</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="shareapp">Share app</string>
+    <string name="newevent">New Event</string>
+    <string name="rateapp">Rate app</string>
+    <string name="termofuse">Terms Of Use</string>
+    <string name="cleardata">Clear data</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="areyousuretoclear">Are you sure you want to clear your data? This action will permanently delete all your changes.</string>
+    <string name="calcel">Cancel</string>
+    <string name="cleardata">Clear data</string>
+    <string name="workschedule">Work schedule</string>
+    <string name="therearenomatches">There are no matches scheduled for this day.</string>
+    <string name="tocreateanotepress">To create a note, press "+" to create a note.</string>
+    <string name="nointernet">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="loadingevents">Loading events...</string>
+    <string name="loadingleagues">Loading leagues...</string>
+    <string name="nameevent">Name event</string>
+    <string name="typethenotehere">Type the note here...</string>
+    <string name="attention">Attention </string>
+    <string name="thetimestartcannot">The start time cannot be greater than or equal to the end time.</string>
+    <string name="ok">Ok</string>
+    <string name="pinanevent">Pin an event</string>
+    <string name="unpintheevent">Unpin the event</string>
+    <string name="pinnedevents">Pinned Events</string>
+    <string name="theeventhasbeensuccesfullypinned">The event has been successfully pinned</string>
+    <string name="theeventhasbeensuccesfullyremoved">The event has been successfully removed from the pinned  </string>
+    <string name="scheduletoday">Schedule Today</string>
+    <string name="save">Save</string>
+    <string name="starttime">Start time</string>
+    <string name="endtime">End time</string>
+    <string name="endtime">End time</string>
+    <string name="save">Save</string>
+    <string name="attention">Attention</string>
+    <string name="thestartcannotbegreater">The start time cannot be greater than or equal to the end time.</string>
+    <string name="detailinfo">Detail info</string>
+    <string name="deleteevent">Delete event</string>
+    <string name="areyousuretodeleteevent">Are you sure you want to delete \nthe event?</string>
+    <string name="deleteevent">Delete event</string>
+    <string name="teams">Teams</string>
+    <string name="match">Match</string>
+    <string name="startmatch">Start match</string>
+    <string name="delete">Delete</string>
+    <string name="referee">Referee</string>
+    <string name="venue">Venue</string>
+    <string name="city">City</string>
+    <string name="league">League</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="season">Season</string>
+    <string name="round">Round</string>
+    <string name="typethenotehere">Type the note here...</string>
+    <string name="selectleaguestoseeupcoming">Select leagues to display upcoming matches in the calendar</string>
+    <string name="privacy_text">This Privacy Policy aims to elucidate the methods through which we gather, utilize, reveal, and fortify your data when you utilize our mobile applications (the "Apps"). We urge you to peruse this privacy policy with care. Should you disagree with its terms, we respectfully request that you refrain from accessing the Apps.\n
+Information Collection\n
+Personal Data
+We might gather personally identifiable information ("Personal Data") that you willingly provide to us when you register with the Apps, make purchases, or engage with us in other capacities. Personal Data encompasses, but is not limited to:
+1. Name
+2. Email address
+3. Phone number
+4. Payment information if required.
+5. Any additional personal data you choose to furnish.\n
+Usage Data
+We may also collect data that your mobile device transmits when you interact with our Apps ("Usage Data"). This may encompass information such as:
+1. Your device's Internet Protocol ("IP") address
+2. Device type and model
+3. Operating system version
+4. The pages or features of our Apps that you visit
+5. The time and date of your visit
+6. The duration of time spent on said pages or features
+7. Unique device identifiers
+8. Other diagnostic data.\n
+Location Data
+We may employ and retain data about your location with your explicit consent. This data enables us to furnish features of our service and refine and tailor our offerings. You retain the prerogative to enable or disable location services when using our Apps at any given time via your device settings.\n
+Utilization of Your Information
+We may utilize the collected information for the following purposes:
+1. Provision, operation, and maintenance of our Apps
+2. Enhancement, customization, and expansion of our Apps
+3. Understanding and analysis of your interaction with our Apps
+4. Innovation of new products, services, and features.\n
+Information Disclosure
+We may disclose the information we have amassed about you in specific scenarios. Your information may be revealed as follows:
+Legal Compliance and Rights Protection
+If we deem it imperative to disclose information about you to satisfy legal demands, investigate or rectify potential violations of our policies, or safeguard the rights, assets, and well-being of others, we may share your information in accordance with applicable law, rule, or regulation.\n
+Corporate Transfers
+In connection with, or during negotiations concerning a merger, sale of company assets, financing, or acquisition of all or a portion of our business by another entity, we may share or transfer your information.
+Third-Party Service Providers
+We may divulge your information to third parties who conduct services for us or on our behalf, including but not limited to payment processing, data analysis, email delivery, hosting services, customer service, and marketing support.\n
+Marketing Communications
+Subject to your consent, or provision of the opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, in accordance with legal provisions.\n
+Policy for Minors
+We do not actively seek information from or direct our marketing endeavors toward individuals under the age of 17. In the event that we ascertain having inadvertently acquired information from a minor under the age of 17 without verified parental consent, we will expediently expunge that information. Should you have reason to believe that we possess any information from or pertaining to a minor under the age of 17, we implore you to contact us immediately.\n
+Revisions to This Privacy Policy
+From time to time, we may revise this Privacy Policy to reflect amendments to our practices or for operational, legal, or regulatory motives. When such adjustments occur, we will adopt appropriate measures to keep you informed, commensurate with the significance of the alterations. We will seek your consent for any changes to the Privacy Policy, where mandated by applicable data protection laws.\n
+Contact Information
+Should you harbor inquiries or comments regarding this Privacy Policy, we invite you to reach out to us.
+    </string>
+    <string name="terms_of_use_text">By using our mobile applications ("Apps") and related services, you agree to these Terms and Conditions ("Terms"). If you download, install, access, or use our Apps, you are bound by these Terms. If you do not agree, please do not use our Apps.\n
+1. Use of Our Apps
+1.1 License: You are granted a limited, non-exclusive, revocable license to use our Apps for your personal, non-commercial purposes as per these Terms.
+1.2 Restrictions: You should not modify, adapt, or attempt to extract the source code of our Apps. Additionally, you must not disrupt the operation of our Apps or use them for any illegal purpose, or in a manner that could damage our servers or networks.\n
+2. User Accounts
+2.1 Account Creation: To access certain features of our Apps, you may need to create an account and agree to provide accurate information during the registration process.
+2.2 Account Security: it is your responsibility to maintain the confidentiality of your account and notify us immediately of any unauthorized access or use.\n
+3. Intellectual Property
+Our Apps and all content, features, and functionality are owned by us, and protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute or modify our Apps without our written consent.\n
+4. Disclaimer of Warranties
+Our Apps are provided on an "as-is" and "as-available" basis, without any warranties of any kind. We do not guarantee that our Apps will be uninterrupted, error-free, or free from harmful components.\n
+5. Limitation of Liability
+To the fullest extent allowed by law, we shall not be liable for any indirect, incidental, or punitive damages arising from your use of our Apps.\n
+6. Indemnification
+You agree to indemnify and hold us harmless from any claims or damages arising from your use of our Apps.\n
+7. Governing Law
+These Terms shall be governed by the laws.\n
+8. Changes to These Terms
+We reserve the right to update these Terms at any time and will notify you of any changes by posting the new Terms on this page.\n
+9. Contact Us
+If you have any questions or concerns, please feel free to reach out to us.
+Thank you for using our Apps!
+    </string>
+</resources>
